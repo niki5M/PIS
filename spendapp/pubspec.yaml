@@ -62,4 +62,11 @@ flutter:
 
   assets:
     - assets/images/logo.svg
-
+    - assets/images/accout.png
+    - assets/images/radar.png
+    - assets/images/receipt-item.png
+    - assets/images/dollar-square.png
+    - assets/images/clock.png
+    - assets/images/setting-2.png
+    - assets/images/trash.png
+    - assets/images/plus.png
